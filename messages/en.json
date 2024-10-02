@@ -1,0 +1,35 @@
+{
+  "Common": {
+    "title": "My Portfolio",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects"
+    }
+  },
+  "Home": {
+    "title": "Welcome to My Portfolio",
+    "description": "I'm a passionate developer creating beautiful and functional web experiences.",
+    "cta": "View My Projects"
+  },
+  "About": {
+    "title": "About Me",
+    "profileAlt": "Profile picture",
+    "paragraph1": "Hi, I'm Bakhtyiar. I'm a passionate web developer with expertise in React, Next.js, and modern web technologies. I love creating beautiful, responsive, and user-friendly websites that solve real-world problems.",
+    "paragraph2": "With 2 years of experience in the industry, I've worked on a variety of projects ranging from small business websites to large-scale web applications. I'm always eager to learn new technologies and improve my skills.",
+    "paragraph3": "When I'm not coding, you can find me in the kitchen because I really love to cook.",
+    "myProfessions": "My professions",
+    "me": "Me",
+    "experience": "Experience",
+    "free-time": "Free Time"
+  },
+  "Projects": {
+    "title": "My Projects",
+    "viewProject": "View Project",
+    "contact": "Contact",
+    "ur-project": "Your Project Name",
+    "how-contact": "How you connect with me?",
+    "message": "Hello! I would like to order a website or an application, could you tell me more?",
+    "cancel": "Close"
+  }
+}
